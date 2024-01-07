@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Science Engineer Full Stack 🤓 | Pythoneer 🐍 |<br>Hello, I am interested in Python DataScience and Artificial Intelligence.<br><br>🔭 I’m currently working as Freelancer 💻<br>🌱 I’m currently learning Full Stack Development , DataScience , Artificial Intelligence.<br>👯 I’m looking to collaborate on any cool Project<br>📫 You can reach at: elvercelal@gmail.com<br>⚡ Fun fact: Caffeine helps me Code.. ☕<br>
+Data Science Engineer Full Stack 🤓 | Pythoneer 🐍 |<br>Hello, I am interested in Python DataScience and Artificial Intelligence.<br><br>🔭 I’m currently working as Freelancer 💻<br>🌱 I’m currently learning Full Stack Development , DataScience , Artificial Intelligence.<br>👯 I’m looking to collaborate on any cool Project<br>📫 You can reach at: elvercelal@gmail.com<br>⚡ <br>
 
 
 ## 🌐 Socials:
